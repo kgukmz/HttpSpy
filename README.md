@@ -1,7 +1,7 @@
 Loadstring:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotDSF/HttpSpy/main/init.lua"))({
+loadstring(game:HttpGet("https://github.com/kgukmz/HttpSpy/raw/refs/heads/main/Main.lua"))({
     AutoDecode = true, -- Automatically decodes JSON
     Highlighting = true, -- Highlights the output
     SaveLogs = true, -- Save logs to a text file
